@@ -4,6 +4,6 @@ pandas
 numpy
 Gunicorn
 cmake
-dlib==19.21.1
+dlib==19.22.0
 face_recognition
 opencv-python
