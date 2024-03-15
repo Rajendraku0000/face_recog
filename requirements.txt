@@ -1,0 +1,9 @@
+cv2
+flask
+mysql.connector
+pandas
+numpy
+Gunicorn
+cmake
+-e C:\Users\rajen\OneDrive\Desktop\Face_attandance - Copy\Dlib-python whl packages\dlib-19.22.99-cp310-cp310-win_amd64.whl
+face_recognition
