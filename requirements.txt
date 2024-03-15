@@ -1,4 +1,3 @@
-python3-opencv
 flask
 mysql.connector
 pandas
@@ -7,3 +6,4 @@ Gunicorn
 cmake
 dlib
 face_recognition
+opencv-python
