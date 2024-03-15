@@ -5,6 +5,5 @@ pandas
 numpy
 Gunicorn
 cmake
-file:///C:/Users/rajen/OneDrive/Desktop/Face_attandance%20-%20Copy/Dlib-python%20whl%20packages/dlib-19.22.99-cp310-cp310-win_amd64.whl
-
+dlib
 face_recognition
